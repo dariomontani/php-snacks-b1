@@ -20,10 +20,8 @@
 </head>
 <body>
     <!-- cars -->
-    <div id="app">
-
-    <div/>
-
+    <div id="app"></div>
+    
     <!-- axios -->
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
